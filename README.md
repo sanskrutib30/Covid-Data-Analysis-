@@ -1,6 +1,6 @@
 # Covid-Data-Analysis-
 Project Purpose :-
-To perform exploratory data analysis (EDA) on COVID-19 case and vaccination data for India, uncovering trends in infection spread, recoveries, mortality rates, and vaccination progress across states and union territories. The project aims to demonstrate data cleaning, analysis, and visualization skills while providing actionable public health insights from real-world pandemic data.
+Performed exploratory data analysis (EDA) on COVID-19 case and vaccination data for India, uncovering trends in infection spread, recoveries, mortality rates, and vaccination progress across states and union territories. The project aims to demonstrate data cleaning, analysis, and visualization skills while providing actionable public health insights from real-world pandemic data.
 Public Health Problem :-
 During and post the COVID-19 pandemic, governments, healthcare organizations, and policymakers needed clear, data-driven insights to:
 Identify high-risk states with rapid case growth or high mortality.
